@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VenteProductApp</string>
+
+
+    <string name="search_user_name">Search here</string>
+    <string name="search_button">Search</string>
+    <string name="searching">Searching</string>
+    <string name="results_found">Results Found</string>
+    <string name="result_error"> Error Accord. Please Check Your Internet Connection.</string>
+
+</resources>
